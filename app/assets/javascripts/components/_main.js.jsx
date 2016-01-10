@@ -3,6 +3,7 @@ var Main = React.createClass({
     return (
       <div>
         <Header />
+        <NewSkill />
         <Body />
       </div>
     )
